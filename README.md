@@ -5,6 +5,7 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Setup](#setup)
+* [Usage](#usage)
 * [Project Status](#project-status)
 
 ## General Information
@@ -69,5 +70,10 @@ To set up your local environment and get started with the project, follow these 
 2. Install the required dependencies.
 3. Proceed with the specific setup instructions mentioned in each module.
 
+## Usage
+1. Download the trained model 'NLP_Net.pkl'.
+2. Load the model to your environment by code "joblib.load('log_reg_model.pkl')".
+3. Predict result.
+    
 ## Project Status
-This project is in progress. The dataset has been collected, and the initial preprocessing and modeling steps have been completed. Further improvements and optimizations are being explored to enhance the model's prediction accuracy.
+This project is completed.
